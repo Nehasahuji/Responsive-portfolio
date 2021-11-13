@@ -1304,5 +1304,11 @@ img {
 
     grid-template-columns: repeat(2,350px);
    }
+  
+   .header,
+   .main,
+   .footer__container {
+     padding: 1rem;
+   }
     
 }
