@@ -141,9 +141,13 @@ img {
   height: auto;
 }
 
+.title{
+font-weight: bold;
+}
+
 /* ====== REUSABLE CSS CLASSES ====== */
 .section {
-  padding: 2rem 0 4rem;
+  padding: 2rem 0 3rem;
 }
 
 .section__title {
